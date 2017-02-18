@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<div class="js">
 <html lang="en">
   <head>
     <title> HERTZ 2k16 </title>
@@ -26,6 +27,7 @@
     <link rel="stylesheet" type="text/css" href="style/style_sheet.css">
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="50">
+    <div id="preloader"></div>
     <div class="container-fluid">
       <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
@@ -455,4 +457,17 @@
   </div>
 </div>
 </body>
+
+
+<script type="text/javascript">
+  jQuery(document).ready(function($) {  
+
+  // site preloader -- also uncomment the div in the header and the css style for #preloader
+  $(window).load(function(){
+    $('#preloader').fadeOut('slow',function(){$(this).remove();});
+  });
+
+  });
+</script>
 </html>
+</div>
