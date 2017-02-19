@@ -75,7 +75,7 @@ https://github.com/Sparsh2017/WebDevelopment/pull/1/commits/2ea15ac43b79baa93c7b
 
 7. improve design and remove redundancy
 
-design of navbar and contact section updated and redudancy removed.
+design of navbar and contact section updated and redudancy removed. options for link to youtube, twitter are also provided.
 
 link ---
 https://github.com/Sparsh2017/WebDevelopment/pull/1/commits/13e7be083f86f0b07dd0c4e613226817a9ff0e59
@@ -96,4 +96,27 @@ https://github.com/Sparsh2017/WebDevelopment/pull/1/commits/d57c0ec8ddff665dad2b
 no event page is having register link. register link is only on home page so team added register link to every page so user can register directly from event page.
 
 link ---
-https://github.com/Sparsh2017/WebDevelopment/pull/1/commits/b759a66d434662ffcf58b24ca2fa7d72b3588881
+https://github.com/Sparsh2017/WebDevelopment/pull/1/commits/691c69ea16d3c27ddb7dacb029b8f90b7b43b305
+
+
+10. team formation or queries
+
+
+sometimes for team formation in event or general query question answer in public thread is important so that anyone can form team on online platform or post his query publicly. for this purpose a new link is added to in navbar for post something by using webapp which is previously developed by our team.
+
+link ---
+https://github.com/Sparsh2017/WebDevelopment/pull/1/commits/89bdb3c15c3d13d58acab62dc441ee7867cf9473
+
+code of webapp --
+https://github.com/sinwar/Tagore-Time-Django-App
+
+
+10. contact us typeform
+
+a messy typeform is used for message in contact us which is not proper. We should provide basic contact form in minimal design so user can easily understand and enter message but due to lack of time team couldn't implement it.
+
+
+
+
+																					- Team bug404
+																					
