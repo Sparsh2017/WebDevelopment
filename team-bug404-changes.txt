@@ -88,3 +88,12 @@ sometimes slow network or any reason website loads slowly so preloader is always
 
 link ---
 https://github.com/Sparsh2017/WebDevelopment/pull/1/commits/d57c0ec8ddff665dad2b19e2544d71a8eb5a9c48
+
+
+
+9. register link on event page
+
+no event page is having register link. register link is only on home page so team added register link to every page so user can register directly from event page.
+
+link ---
+https://github.com/Sparsh2017/WebDevelopment/pull/1/commits/b759a66d434662ffcf58b24ca2fa7d72b3588881
