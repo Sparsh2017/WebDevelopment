@@ -1,0 +1,11 @@
+Bug : Web Beacon(Bug) are the gif images sending user activity to someone else.
+
+In the present website, there are few unwanted gif images at following places :
+
+1) Registration form > Below "1.What's your name?"
+
+2) Registration form > Below "6. What's your E-mail ID?"
+
+Removing this gif images from the online form is bit hectic one. We did our best in removing this gif from the form and we succeeded but we lost the quality of form. There were some missing content. So for the best  results we reach to the conclusion that it will be better if we make a fresh form, so we did.
+
+That's all :)
