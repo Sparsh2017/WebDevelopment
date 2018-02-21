@@ -17,3 +17,5 @@ Changes we made:-
 6. Rearranged tags
 
 7. Added registration link on each page
+
+8. Added mail icon
