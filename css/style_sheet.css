@@ -1,13 +1,20 @@
+.container-fluid{
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+}
 .navbar-inverse {
   background-color: #34495e;
   
 }   
-
 .navbar-inverse .navbar-brand {
   color: white;
   font-size: 25px;
 }
-
+ul,.navbar{
+   padding-left: 0px;
+  padding-right: 0px
+}
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
   color: #f39c12;
@@ -31,8 +38,8 @@
 .navbar-fixed-top
 {
   position: fixed;
-  right: 10;
-  left: 10;
+  /*right: 10;
+  left: 10;*/
   z-index: 1030;
 }
 h1
