@@ -1,0 +1,21 @@
+Changes we made:-
+
+1. Made project structured
+	Images-All images transferred to the folder
+	Style- Stylesheet
+	All html pages outside
+	We also changed the reference in that
+
+2. Changed home.html to index.html in all pages
+
+3. Removed reduntant timer.
+
+4. Mail reference corrected in index.html
+
+5. Classes added in some tags and fixed navbar.
+
+6. Rearranged tags
+
+7. Added registration link on each page
+
+8. Added mail icon
