@@ -1,7 +1,12 @@
 .navbar-inverse {
   background-color: #34495e;
   
-}   
+}
+
+#home {
+  position: relative;
+  top: 50px;
+}
 
 .navbar-inverse .navbar-brand {
   color: white;
@@ -31,45 +36,37 @@
 .navbar-fixed-top
 {
   position: fixed;
-  right: 10;
-  left: 10;
   z-index: 1030;
 }
 h1
 {
   color: #2c3e50;
   font-size: 40px;
-  font-family: ;
 }
 p.about
 {
   color: #f39c12;
   font-size: 22px;
-  font-family: ;
 }
 p.about1
 {
   color: black;
   font-size: 22px;
-  font-family: ;
 }
 p.about2
 {
   color: black;
   font-size: 18px;
-  font-family: ;
 }
 p.email
 {
   color: #f39c12;
   font-size: 22px;
-  font-family: ;
 }
 p.about12
 {
   color: black;
   font-size: 18px;
-  font-family: ;
   margin-top: 30px;
 }
 p.tit
